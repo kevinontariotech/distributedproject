@@ -1,6 +1,6 @@
 # distributedproject
 
-Client\n
+Client
   client.java
     this is the client interface java file, just add things that you think the client needs to have
     should start with a login screen to get the users u/s and p/w
